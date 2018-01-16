@@ -3,5 +3,6 @@ function test(){
 }
 
 function test2(){
-	console.log(222);
+	console.log(bbbbb);
+	console.log(aaa);
 }
