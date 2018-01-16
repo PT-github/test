@@ -5,4 +5,5 @@ function test(){
 function test2(){
 	console.log(bbbbb);
 	console.log(aaa);
+	console.log('修改了一些bug');
 }
